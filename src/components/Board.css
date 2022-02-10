@@ -1,0 +1,9 @@
+.board {
+  border: 1rem solid #971686;
+  background: #971686;
+  width: 500px;
+  height: 500px;
+  display: grid;
+  grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+  gap: 1rem;
+}

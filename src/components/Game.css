@@ -1,0 +1,23 @@
+.info-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  h3 {
+    padding: 1rem;
+    text-align: center;
+  }
+
+  h1 {
+    margin: 2rem;
+    text-align: center;
+
+  }
+
+  .X {
+    color: #2fff7f;
+  }
+  .O {
+    color: rgb(97, 216, 224);
+  }
+ 
